@@ -37,3 +37,4 @@ networkx==2.5.1
 pyvis==0.2.1
 reportlab==3.6.11
 cloudscraper==1.2.64
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
